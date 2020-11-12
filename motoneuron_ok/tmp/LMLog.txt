@@ -1,0 +1,49 @@
+LMeasure v$REVISION: 510 Release Lmv5.2
+argc:4Neuron#:1 ok_m97mod2.CNG.swc
+Single Neuron:ok_m97mod2.CNG.swc
+Current local time and date:Sat Dec 28 10:44:20 2019
+
+
+
+
+inputFileType...swc
+
+
+
+
+
+
+
+Valid file..ok_m97mod2.CNG.swc
+
+
+
+creating neuron:ok_m97mod2.CNG.swc
+c............... :1  String........: 1
+c............... :1  String........: 1
+c............... :-1  String........: -1
+c............... :2  String........: 2
+c............... :1.39  String........: 1
+returning..0addNewChild:119.308,71.866,-21.97+
+62.46,69.18,-24.78
+addNewChild:119.308,71.866,-21.97+
+69.77,54.35,-24.78
+addNewChild:119.308,71.866,-21.97+
+71.5,66.49,-38.74
+addNewChild:119.308,71.866,-21.97+
+117.507,50.523,42.985
+addNewChild:119.308,71.866,-21.97+
+101.3,64.42,21.82
+init 
+Found Duplicate type:1 X:119.308 71.866 -21.97 virtual segment-> skipped!
+Found Duplicate type:-1 X:119.308 71.866 -21.97 virtual segment-> skipped!
+Found Duplicate type:-1 X:119.308 71.866 -21.97 virtual segment-> skipped!
+Found Duplicate type:-1 X:119.308 71.866 -21.97 virtual segment-> skipped!
+Found Duplicate type:-1 X:119.308 71.866 -21.97 virtual segment-> skipped!
+single soma..adding new soma compartment to a two or more stemmed soma point
+soma:1 next1:3 next2:-1
+first soma point1 119.308 71.866 -21.97 1
+Cycl soma added 
+Neuron() done 
+removed all 4957 segsCurrent local time and date:Sat Dec 28 10:44:20 2019
+ 

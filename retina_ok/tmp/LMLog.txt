@@ -1,0 +1,30 @@
+LMeasure v$REVISION: 510 Release Lmv5.2
+argc:4Neuron#:1 /Users/Sebastien/Desktop/plop/purkinje_ok/AZ_Adult1_10CELLS-1.CNG.swc
+Single Neuron://Users//Sebastien//Desktop//plop//purkinje_ok//AZ_Adult1_10CELLS-1.CNG.swc
+Current local time and date:Sat Dec 28 10:54:51 2019
+
+
+
+
+inputFileType...swc
+
+
+
+
+
+
+
+Valid file../Users/Sebastien/Desktop/plop/purkinje_ok/AZ_Adult1_10CELLS-1.CNG.swc
+
+
+
+creating neuron:/Users/Sebastien/Desktop/plop/purkinje_ok/AZ_Adult1_10CELLS-1.CNG.swc
+c............... :1  String........: 1
+c............... :1  String........: 1
+c............... :-1  String........: -1
+c............... :2  String........: 2
+c............... :1  String........: 1
+returning..0adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1init 
+Neuron() done 
+removed all 718 segsCurrent local time and date:Sat Dec 28 10:54:51 2019
+ 

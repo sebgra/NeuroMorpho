@@ -1,0 +1,28 @@
+LMeasure v$REVISION: 510 Release Lmv5.2
+argc:4Neuron#:1 PZ_Adult1-8.CNG.swc
+Single Neuron:PZ_Adult1-8.CNG.swc
+Current local time and date:Sat Dec 28 11:32:26 2019
+
+
+
+
+inputFileType...swc
+
+
+
+
+
+
+
+Valid file..PZ_Adult1-8.CNG.swc
+
+
+
+creating neuron:PZ_Adult1-8.CNG.swc
+c............... :1  String........: 1
+c............... :1  String........: 1
+c............... :-1  String........: -1
+c............... :2  String........: 2
+c............... :1  String........: 1
+returning..0adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1adding type 1init 
+Neuron() done 

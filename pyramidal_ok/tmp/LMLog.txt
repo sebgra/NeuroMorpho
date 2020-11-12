@@ -1,0 +1,51 @@
+LMeasure v$REVISION: 510 Release Lmv5.2
+argc:4Neuron#:1 Lgi1WT-Neuron-9.CNG.swc
+Single Neuron:Lgi1WT-Neuron-9.CNG.swc
+Current local time and date:Sat Dec 28 10:46:59 2019
+
+
+
+
+inputFileType...swc
+
+
+
+
+
+
+
+Valid file..Lgi1WT-Neuron-9.CNG.swc
+
+
+
+creating neuron:Lgi1WT-Neuron-9.CNG.swc
+c............... :1  String........: 1
+c............... :1  String........: 1
+c............... :-1  String........: -1
+c............... :2  String........: 2
+c............... :1  String........: 1
+returning..0adding type 1adding type 1addNewChild:0,0,0+
+-7.12,-1.92,-8.89
+addNewChild:0,0,0+
+1.5,-6.4,-6.92
+addNewChild:0,0,0+
+0.83,-7.82,-9.18
+addNewChild:0,0,0+
+4.16,-5.51,-6.01
+addNewChild:0,0,0+
+5.94,-3.97,-7.23
+addNewChild:0,0,0+
+-2.39,5.45,-3.27
+addNewChild:0,0,0+
+2.39,8.38,-1.53
+init 
+Found Duplicate type:1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Neuron() done 
+removed all 1597 segsCurrent local time and date:Sat Dec 28 10:46:59 2019
+ 

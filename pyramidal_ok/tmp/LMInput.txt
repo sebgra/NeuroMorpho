@@ -1,0 +1,3 @@
+-f44,0,0,10 
+-stmp/LMOutput.txt
+Lgi1WT-Neuron-9.CNG.swc

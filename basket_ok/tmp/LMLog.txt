@@ -1,0 +1,39 @@
+LMeasure v$REVISION: 510 Release Lmv5.2
+argc:4Neuron#:1 20131105-a1.CNG.swc
+Single Neuron:20131105-a1.CNG.swc
+Current local time and date:Sat Dec 28 11:27:45 2019
+
+
+
+
+inputFileType...swc
+
+
+
+
+
+
+
+Valid file..20131105-a1.CNG.swc
+
+
+
+creating neuron:20131105-a1.CNG.swc
+c............... :1  String........: 1
+c............... :1  String........: 1
+c............... :-1  String........: -1
+c............... :2  String........: 2
+c............... :1  String........: 1
+returning..0adding type 1adding type 1addNewChild:0,0,0+
+2.49,0.21,1.33
+addNewChild:0,0,0+
+1.82,-2.27,1.62
+addNewChild:0,0,0+
+-0.22,1.66,4.55
+init 
+Found Duplicate type:1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Neuron() done 
+removed all 318 segsCurrent local time and date:Sat Dec 28 11:27:45 2019
+ 
