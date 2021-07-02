@@ -1,0 +1,27 @@
+LMeasure v$REVISION: 434 Release Lmv5.0
+argc:4Neuron#:1 /home/sebastien/Bureau/NeuroMorpho/retina_ok/20150916-LPS16-1.CNG.swc
+Single Neuron://home//sebastien//Bureau//NeuroMorpho//retina_ok//20150916-LPS16-1.CNG.swc
+Current local time and date:Thu Jul  1 13:14:31 2021
+creating neuron:/home/sebastien/Bureau/NeuroMorpho/retina_ok/20150916-LPS16-1.CNG.swc
+c............... :1  String........: 1
+c............... :2  String........: 2
+c............... :1  String........: 1
+returning..0adding type 1adding type 1addNewChild:0,0,0+
+-5.7,5.79,1.99
+addNewChild:0,0,0+
+-2.36,-6.87,6.41
+addNewChild:0,0,0+
+9.02,-1.27,5.5
+addNewChild:0,0,0+
+8.99,-0.57,-2.48
+addNewChild:0,0,0+
+4.41,6.54,9.24
+init 
+Found Duplicate type:1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Found Duplicate type:-1 X:0 0 0 virtual segment-> skipped!
+Neuron() done 
+removed all 1463 segsCurrent local time and date:Thu Jul  1 13:14:31 2021
+ 

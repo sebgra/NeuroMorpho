@@ -1,0 +1,3 @@
+-f44,0,0,10 
+-stmp/LMOutput.txt
+/home/sebastien/Bureau/NeuroMorpho/retina_ok/20150916-LPS16-1.CNG.swc

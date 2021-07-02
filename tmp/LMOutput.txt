@@ -1,0 +1,2 @@
+/home/sebastien/Bureau/NeuroMorpho/retina_ok/20150916-LPS16-1.CNG.swc	Fractal_Dim 	87.0453	84	(1374)	1	1.03625	1.30386	0.0564113 
+ 
