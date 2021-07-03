@@ -25,6 +25,13 @@ pip install pylmeasure
 
 Based on 43 morphological features, on which first order statistics are computed, a classification score (f1-score) of 1.0 is reached by some classifiers. 
 
+![Results Graph](https://github.com/sebgra/NeuroMorpho/blob/main/results/images/Classification_results.png)
 
+## Imporvements
+
+Neuron reconstructions are selected on http://neuromorpho.org/ .
+Some neurons can't be read by pylmeasure. Also the dataset is imbalanced. 
+
+It could be interesting to enhance the database by increasing the number of neurons of each class and enhance the number of classes. 
 
   
